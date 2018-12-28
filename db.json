@@ -1,0 +1,245 @@
+[
+  {
+    "OBJECTID": 1,
+    "NAME": "Hilo High School",
+    "ADDRESS": "556 Waianuenue Avenue",
+    "CITY": "Hilo",
+    "STATE": "HI",
+    "ZIP": 96720,
+    "PHONE": "(808) 974-4021"
+  },
+  {
+    "OBJECTID": 2,
+    "NAME": "Holualoa Elementary School",
+    "ADDRESS": "76-5957 Mamalahoa Highway",
+    "CITY": "Holualoa",
+    "STATE": "HI",
+    "ZIP": 96725,
+    "PHONE": "(808) 322-4800"
+  },
+  {
+    "OBJECTID": 3,
+    "NAME": "Honaunau Elementary School",
+    "ADDRESS": "83-5360 Mamalahoa Highway",
+    "CITY": "Captain Cook",
+    "STATE": "HI",
+    "ZIP": 96704,
+    "PHONE": "(808) 328-2727"
+  },
+  {
+    "OBJECTID": 4,
+    "NAME": "Hookena Elementary School",
+    "ADDRESS": "86-4355 Mamalahoa Highway",
+    "CITY": "Captain Cook",
+    "STATE": "HI",
+    "ZIP": 96704,
+    "PHONE": "(808) 328-2710"
+  },
+  {
+    "OBJECTID": 5,
+    "NAME": "Kau High and Pahala Elementary School",
+    "ADDRESS": "96-3150 Pikake Street",
+    "CITY": "Pahala",
+    "STATE": "HI",
+    "ZIP": 96777,
+    "PHONE": "(808) 313-4100"
+  },
+  {
+    "OBJECTID": 6,
+    "NAME": "Kaumana Elementary School",
+    "ADDRESS": "1710 Kaumana Drive",
+    "CITY": "Hilo",
+    "STATE": "HI",
+    "ZIP": 96720,
+    "PHONE": "(808) 974-4190"
+  },
+  {
+    "OBJECTID": 7,
+    "NAME": "Kohala Elementary School",
+    "ADDRESS": "54-3609 Akoni Pule Highway",
+    "CITY": "Kapaau",
+    "STATE": "HI",
+    "ZIP": 96755,
+    "PHONE": "(808) 889-7100"
+  },
+  {
+    "OBJECTID": 8,
+    "NAME": "Waiakeawaena Elementary School",
+    "ADDRESS": "2420 Kilauea Ave",
+    "CITY": "Hilo",
+    "STATE": "HI",
+    "ZIP": 96720,
+    "PHONE": "(808) 981-7200"
+  },
+  {
+    "OBJECTID": 9,
+    "NAME": "Hilo Intermediate School",
+    "ADDRESS": "587 Waianuenue Avenue",
+    "CITY": "Hilo",
+    "STATE": "HI",
+    "ZIP": 96720,
+    "PHONE": "(808) 974-4955"
+  },
+  {
+    "OBJECTID": 10,
+    "NAME": "Keaau Middle School",
+    "ADDRESS": "16-565 Keaau Pahoa Road",
+    "CITY": "Keaau",
+    "STATE": "HI",
+    "ZIP": 96749,
+    "PHONE": "(808) 982-4200"
+  },
+  {
+    "OBJECTID": 11,
+    "NAME": "Pahoa High and Intermediate School",
+    "ADDRESS": "15-3038 Pahoa Village Road",
+    "CITY": "Pahoa",
+    "STATE": "HI",
+    "ZIP": 96778,
+    "PHONE": "(808) 965-2150"
+  },
+  {
+    "OBJECTID": 12,
+    "NAME": "Waiakea Elementary School",
+    "ADDRESS": "180 West Puainako Street",
+    "CITY": "Hilo",
+    "STATE": "HI",
+    "ZIP": 96720,
+    "PHONE": "(808) 981-7215"
+  },
+  {
+    "OBJECTID": 13,
+    "NAME": "Kealakehe Intermediate School",
+    "ADDRESS": "74-5062 Onipaa Street",
+    "CITY": "Kailua-Kona",
+    "STATE": "HI",
+    "ZIP": 96740,
+    "PHONE": "(808) 327-4314"
+  },
+  {
+    "OBJECTID": 14,
+    "NAME": "Kealakehe Elementary School",
+    "ADDRESS": "74-5118 Kealakaa Street",
+    "CITY": "Kailua-Kona",
+    "STATE": "HI",
+    "ZIP": 96740,
+    "PHONE": "(808) 327-4308"
+  },
+  {
+    "OBJECTID": 15,
+    "NAME": "Waimea Elementary and Intermediate Schools",
+    "ADDRESS": "67-1225 Mamalahoa Highway",
+    "CITY": "Kamuela",
+    "STATE": "HI",
+    "ZIP": 96743,
+    "PHONE": "(808) 887-7636"
+  },
+  {
+    "OBJECTID": 16,
+    "NAME": "Konawaena High School",
+    "ADDRESS": "81-1043 Konawaena School Road",
+    "CITY": "Kealakekua",
+    "STATE": "HI",
+    "ZIP": 96750,
+    "PHONE": "(808) 323-4500"
+  },
+  {
+    "OBJECTID": 17,
+    "NAME": "Kohala High School",
+    "ADDRESS": "54-3611 Akoni Pule Highway",
+    "CITY": "Kapaau",
+    "STATE": "HI",
+    "ZIP": 96755,
+    "PHONE": "(808) 889-7117"
+  },
+  {
+    "OBJECTID": 18,
+    "NAME": "Honokaa High and Intermediate School",
+    "ADDRESS": "45-527 Pakalana Street",
+    "CITY": "Honokaa",
+    "STATE": "HI",
+    "ZIP": 96727,
+    "PHONE": "(808) 775-8800"
+  },
+  {
+    "OBJECTID": 19,
+    "NAME": "Ernest Bowen de Silva Elementary School",
+    "ADDRESS": "278 Ainako Avenue",
+    "CITY": "Hilo",
+    "STATE": "HI",
+    "ZIP": 96720,
+    "PHONE": "(808) 974-4855"
+  },
+  {
+    "OBJECTID": 20,
+    "NAME": "Kahakai Elementary School",
+    "ADDRESS": "76-147 Royal Poinciana Drive",
+    "CITY": "Kailua-Kona",
+    "STATE": "HI",
+    "ZIP": 96740,
+    "PHONE": "(808) 327-4313"
+  },
+  {
+    "OBJECTID": 21,
+    "NAME": "Mountain View Elementary School",
+    "ADDRESS": "18-1235 Volcano Highway",
+    "CITY": "Mountain View",
+    "STATE": "HI",
+    "ZIP": 96771,
+    "PHONE": "(808) 968-2300"
+  },
+  {
+    "OBJECTID": 22,
+    "NAME": "Waiakea High School",
+    "ADDRESS": "155 West Kawili Street",
+    "CITY": "Hilo",
+    "STATE": "HI",
+    "ZIP": 96720,
+    "PHONE": "(808) 974-4888"
+  },
+  {
+    "OBJECTID": 23,
+    "NAME": "Keonepoko Elementary School",
+    "ADDRESS": "15-890 Kahakai Boulevard",
+    "CITY": "Pahoa",
+    "STATE": "HI",
+    "ZIP": 96778,
+    "PHONE": "(808) 965-2131"
+  },
+  {
+    "OBJECTID": 24,
+    "NAME": "Kealakehe High School",
+    "ADDRESS": "74-5000 Puohulihuli Street",
+    "CITY": "Kailua-Kona",
+    "STATE": "HI",
+    "ZIP": 96740,
+    "PHONE": "(808) 327-4300"
+  },
+  {
+    "OBJECTID": 25,
+    "NAME": "Keaau High School",
+    "ADDRESS": "16-725 Keaau-Pahoa Road",
+    "CITY": "Keaau",
+    "STATE": "HI",
+    "ZIP": 96749,
+    "PHONE": "(808) 982-4220"
+  },
+  {
+    "OBJECTID": 26,
+    "NAME": "Pahoa Elementary School",
+    "ADDRESS": "15-3030 Kuuhome Street",
+    "CITY": "Pahoa",
+    "STATE": "HI",
+    "ZIP": 96778,
+    "PHONE": "(808) 965-2141"
+  },
+  {
+    "OBJECTID": 27,
+    "NAME": "Waimea District Court",
+    "ADDRESS": "67-5175 Kamamalu Street",
+    "CITY": "Kamuela",
+    "STATE": "HI",
+    "ZIP": 96743,
+    "PHONE": "(808) 885-4615"
+  }
+]
